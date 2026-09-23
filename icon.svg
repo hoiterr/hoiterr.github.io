@@ -1,14 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
   <title id="title">The Model Note</title>
-  <rect width="64" height="64" fill="#18251e"/>
-  <g fill="#f4f0e8">
-    <rect x="7" y="13" width="4" height="38"/>
-    <rect x="15" y="13" width="2.5" height="38"/>
-    <rect x="21" y="13" width="7" height="38"/>
-    <rect x="32" y="13" width="2.5" height="38"/>
-    <rect x="38" y="13" width="2" height="38"/>
-    <rect x="44" y="13" width="5" height="38"/>
-    <rect x="53" y="13" width="3" height="38"/>
+  <rect width="64" height="64" rx="14" fill="#18251e"/>
+  <g stroke="#f2634b" stroke-width="5.5" stroke-linecap="round">
+    <path d="M32 16V48"/>
+    <path d="M18.4 24L45.6 40"/>
+    <path d="M45.6 24L18.4 40"/>
   </g>
-  <path d="M7 32H16L20 23L25 43L31 31H39L44 19L49 45L54 31H57" fill="none" stroke="#f2634b" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
 </svg>
