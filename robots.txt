@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://hoiterr.github.io/sitemap.xml
+Sitemap: https://themodelnote.com/sitemap.xml
