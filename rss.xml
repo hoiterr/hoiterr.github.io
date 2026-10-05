@@ -8,49 +8,49 @@
     <item>
       <title>Stop asking agents for permission at every step. Start deciding where approval belongs.</title>
       <link>https://themodelnote.com/news/where-approval-belongs/</link>
-      <guid>https://themodelnote.com/news/where-approval-belongs</guid>
+      <guid>https://themodelnote.com/news/where-approval-belongs/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description>Three approval models—per action, per plan, and per boundary—and a practical default for a small team running its first supervised agent pilot.</description>
     </item>
     <item>
       <title>Before you add another agent, build a five-case evaluation suite.</title>
       <link>https://themodelnote.com/news/a-small-eval-suite/</link>
-      <guid>https://themodelnote.com/news/a-small-eval-suite</guid>
+      <guid>https://themodelnote.com/news/a-small-eval-suite/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description>A compact way to move beyond glossy demos: real tasks, observable outcomes, trace review, a failure case, and repeatability.</description>
     </item>
     <item>
       <title>The most useful first agent may be a workflow that does not look autonomous.</title>
       <link>https://themodelnote.com/news/workflow-before-agent/</link>
-      <guid>https://themodelnote.com/news/workflow-before-agent</guid>
+      <guid>https://themodelnote.com/news/workflow-before-agent/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description>A decision guide for choosing the least-complex AI system that can improve a recurring task—and knowing when an agent is actually justified.</description>
     </item>
     <item>
       <title>Before you trust an agent, make its work easy to replay.</title>
       <link>https://themodelnote.com/news/trace-before-trust/</link>
-      <guid>https://themodelnote.com/news/trace-before-trust</guid>
+      <guid>https://themodelnote.com/news/trace-before-trust/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description>A practical review packet helps a team inspect the request, boundary, path, outcome, and human decision—without mistaking a polished summary for evidence.</description>
     </item>
     <item>
       <title>Context is a budget. Spend it on the next decision.</title>
       <link>https://themodelnote.com/news/context-is-a-budget/</link>
-      <guid>https://themodelnote.com/news/context-is-a-budget</guid>
+      <guid>https://themodelnote.com/news/context-is-a-budget/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description>A practical way to give an agent the smallest trustworthy packet for the job, then leave a handoff a human or fresh session can actually use.</description>
     </item>
     <item>
       <title>We spent $0.05 testing Jev. Its calibration held. The pipeline around it didn’t.</title>
       <link>https://themodelnote.com/news/jev-calibration-test/</link>
-      <guid>https://themodelnote.com/news/jev-calibration-test</guid>
+      <guid>https://themodelnote.com/news/jev-calibration-test/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
       <description>A pre-registered 1,000-call check of TypeSafe’s System One model: stated confidence tracked accuracy in every bin we could test, and it answered all 1,150 calls with typed output — while a chat baseline failed to return usable JSON on a third of calls.</description>
     </item>
     <item>
       <title>We gave an AI agent full disk access. Here’s what it could read.</title>
       <link>https://themodelnote.com/news/os-agent-guardrail-fda/</link>
-      <guid>https://themodelnote.com/news/os-agent-guardrail-fda</guid>
+      <guid>https://themodelnote.com/news/os-agent-guardrail-fda/</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
       <description>After Apple pledged stronger Full Disk Access consent over AI-agent abuse, we ran a data-access census with an autonomous agent on a stock Mac: 3,554 message rows, browsing history and notes read silently, a file written into a protected directory, and the system permission table enumerated — all without one prompt.</description>
     </item>

@@ -1,0 +1,32 @@
+# The Model Note
+
+> Practical notes for choosing and deploying AI models and agents — transparent decision guides, workflow tools, and implementation write-ups. Independent editorial notebook for people evaluating AI tools. No affiliate influence on verdicts; every external claim carries a source link and a check date.
+
+The site publishes short "dispatches": decision guides, evaluation methods, and first-party tests of AI agents and models. Content is static HTML, fully crawlable, with Article structured data (JSON-LD), RSS at /rss.xml, and a sitemap at /sitemap.xml.
+
+## Sections
+
+- [Home](https://themodelnote.com/): latest dispatch and site overview
+- [The Notebook](https://themodelnote.com/news/): all dispatches, oldest first
+- [Tools](https://themodelnote.com/tools/): free browser tools (prompt optimizer, ROI calculator)
+- [Agents](https://themodelnote.com/agents/): agent evaluation material
+- [Implementations](https://themodelnote.com/implementations/): implementation write-ups
+- [About](https://themodelnote.com/about/): what the site is and its editorial standard
+- [RSS](https://themodelnote.com/rss.xml): feed of dispatches
+- [Sitemap](https://themodelnote.com/sitemap.xml): all indexed URLs
+
+## Dispatches
+
+- [Dispatch 01 — Stop asking agents for permission at every step. Start deciding where approval belongs.](https://themodelnote.com/news/where-approval-belongs/): three approval models (per action, per plan, per boundary) and a practical default for a first supervised agent pilot. Published 2026-08-22.
+- [Dispatch 02 — Before you add another agent, build a five-case evaluation suite.](https://themodelnote.com/news/a-small-eval-suite/): a compact evaluation method: real tasks, observable outcomes, trace review, a failure case, repeatability. Published 2026-08-22.
+- [Dispatch 03 — The most useful first agent may be a workflow that does not look autonomous.](https://themodelnote.com/news/workflow-before-agent/): a decision guide for choosing the least-complex AI system that can improve a recurring task. Published 2026-08-22.
+- [Dispatch 04 — Before you trust an agent, make its work easy to replay.](https://themodelnote.com/news/trace-before-trust/): a review packet for inspecting requests, boundaries, paths, outcomes, and human decisions. Published 2026-08-22.
+- [Dispatch 05 — Context is a budget. Spend it on the next decision.](https://themodelnote.com/news/context-is-a-budget/): giving an agent the smallest trustworthy context packet, and leaving a usable handoff. Published 2026-08-22.
+- [Dispatch 06 — We spent $0.05 testing Jev. Its calibration held. The pipeline around it didn't.](https://themodelnote.com/news/jev-calibration-test/): a pre-registered 1,000-call calibration check of TypeSafe's System One model, with the raw method and limitations stated. Published 2026-09-22.
+- [Dispatch 07 — We gave an AI agent full disk access. Here's what it could read.](https://themodelnote.com/news/os-agent-guardrail-fda/): a data-access census run by an autonomous agent on a stock Mac after Apple's Full Disk Access updates. Published 2026-10-05.
+
+## Notes for agents
+
+- Dates: each dispatch shows one publication date (marked up with `<time dateTime>` and `datePublished` in JSON-LD). "Sources checked: A–B" spans are research windows, not publication dates.
+- Quotations and vendor claims are attributed to primary sources linked inline and in each dispatch's Sources section.
+- The site makes no affiliate recommendations and collects no visitor data beyond a privacy-preserving visit counter.
