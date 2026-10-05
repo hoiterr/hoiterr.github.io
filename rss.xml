@@ -47,5 +47,12 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
       <description>A pre-registered 1,000-call check of TypeSafe’s System One model: stated confidence tracked accuracy in every bin we could test, and it answered all 1,150 calls with typed output — while a chat baseline failed to return usable JSON on a third of calls.</description>
     </item>
+    <item>
+      <title>We gave an AI agent full disk access. Here’s what it could read.</title>
+      <link>https://themodelnote.com/news/os-agent-guardrail-fda/</link>
+      <guid>https://themodelnote.com/news/os-agent-guardrail-fda</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <description>After Apple pledged stronger Full Disk Access consent over AI-agent abuse, we ran a data-access census with an autonomous agent on a stock Mac: 3,554 message rows, browsing history and notes read silently, a file written into a protected directory, and the system permission table enumerated — all without one prompt.</description>
+    </item>
   </channel>
 </rss>
